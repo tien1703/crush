@@ -1,18 +1,20 @@
+
 const CONFIG = {
-    introTitle: 'Ê con đĩ nứng lồn ! Đụ má mày!',
-    introDesc: `có phải là mày vừa trốn
-    tiết thầy Huấn Hoa Hòe vào đây không
-    vậy thì hãy đến với khóa học của Tiến Bịp`,
-    btnIntro: '20k trả người đánh mất',
-    title: 'Cháu có thấy cái túi đen đen nào ở đây không',
-    desc: 'À không ! cháu không ! cháu ngồi đây từ chiều có thấy cái túi nào đâu',
-    btnYes: 'Còn đúng cái nịt thôi ',
-    btnNo: 'Còn cái nịt',
-    question:'Mày cầm cái túi đen đen 20 triệu của bố đúng không',
-    btnReply: 'Gửi Súc Vật ',
-    reply: 'Có cái lồn địt mả bà chúng mày muahahahahaha',
-    mess: 'Vãi lồn luôn đầu cắt moi',
-    messDesc: 'Nhà mày ở đâu!Cho bố cái địa chỉ',
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
